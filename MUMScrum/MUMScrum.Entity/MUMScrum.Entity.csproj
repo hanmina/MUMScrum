@@ -50,7 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BurnDownChartRecord.cs" />
-    <Compile Include="CreateEmployeeStatus.cs" />
+    <Compile Include="EmployeeStatus.cs" />
     <Compile Include="Employee.cs" />
     <Compile Include="LogType.cs" />
     <Compile Include="ProductBacklog.cs" />
