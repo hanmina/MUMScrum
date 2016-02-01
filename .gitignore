@@ -45,7 +45,7 @@ x64/
 # ignore all packages
 
 MUMScrum/packages
-MUMScrum/.vs
+.vs/
 
 
 # Chutzpah Test files
